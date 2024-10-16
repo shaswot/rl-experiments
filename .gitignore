@@ -1,3 +1,45 @@
+# Jupyter Notebook
+**/.ipynb_checkpoints
+**/.idea
+
+# Tensorboard Logs
+**/runs
+
+# Saved Models and Seeds
+**/weights
+**/models
+*.pt
+*.dat
+
+# Logfiles
+**/pylogfiles
+**/pdfs
+**/logfiles
+
+# Data
+**/data
+
+# Outputs
+**/results
+**/figures
+
+# Archives
+**/archive
+**/experiment_notebooks
+**/*.old
+
+# Scratchpads
+**/*scratch*
+
+# File Duplicates
+**/*-Copy*
+
+# Numpy Pickles
+**/*.npy
+
+#################################
+# Github default Python gitignore
+#################################
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
